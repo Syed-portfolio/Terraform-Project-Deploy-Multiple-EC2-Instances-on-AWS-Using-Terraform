@@ -113,6 +113,9 @@ Here are the complete step-by-step instructions that you can copy and paste into
 1. **Check AWS Management Console**:
    - Go to the **EC2 Dashboard** in the AWS Management Console.
    - Verify that three EC2 instances have been created, each tagged as `WebServer-1`, `WebServer-2`, and `WebServer-3`.
+  
+   ![image](https://github.com/user-attachments/assets/2df5fff8-d9b6-40be-900b-6b0b3c297d6e)
+
 
 2. **SSH into Instances**:
    - Use the public IP addresses of the instances to SSH into them from your PuTTY session. For example:
