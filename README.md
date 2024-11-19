@@ -2,6 +2,8 @@
 
 Here are the complete step-by-step instructions that you can copy and paste into a Word document or PDF for your project:
 
+![Deploy-Multiple-EC2-Instances-on-AWS-Using-Terraform](https://github.com/user-attachments/assets/61c75c08-8457-43e7-b707-b9fb238c50c2)
+
 ---
 
 # Project: Deploy Multiple EC2 Instances on AWS Using Terraform
